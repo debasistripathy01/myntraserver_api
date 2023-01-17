@@ -1,5 +1,4 @@
-{
-    "dealsofthday": [
+[
         {
           "id": 1,
           "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/4/97d2ea83-5d2e-4c5f-9fed-1ebe30d0fde51651645841750-Under----399.jpg"
@@ -41,4 +40,3 @@
           "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/3/4b4b8940-6dd9-48d7-a93d-db777ffb28d91651582184297-Handbags---Wallets.jpg"
         }
       ]
-}

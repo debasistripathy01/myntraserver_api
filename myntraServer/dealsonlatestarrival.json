@@ -1,6 +1,4 @@
-{
-    "dealsoOnLatestArival": [
-        {
+[        {
           "id": 1,
           "url": "https://assets.myntassets.com/f_webp,w_490,c_limit,fl_progressive,dpr_2.0/assets/images/retaillabs/2022/3/10/02068605-5f9f-404a-8b1d-87eaaba283e71646914652766-SS22-PricingCoupon-600Off--1-.gif"
         },
@@ -17,4 +15,3 @@
           "url": "https://assets.myntassets.com/f_webp,w_490,c_limit,fl_progressive,dpr_2.0/assets/images/retaillabs/2022/3/10/a1690ca9-bcec-469d-b15b-991b3dad64bc1646910870888-SS22-StripBanners-UnisexUnder999.gif"
         }
       ]
-}

@@ -1,5 +1,4 @@
-{
-    "cart": [
+[
         {
           "id": 11,
           "categories": "shirt",
@@ -83,4 +82,4 @@
           "count": 567
         }
       ]
-}
+    
