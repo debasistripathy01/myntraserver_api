@@ -1,0 +1,44 @@
+{
+    "dealsofthday": [
+        {
+          "id": 1,
+          "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/4/97d2ea83-5d2e-4c5f-9fed-1ebe30d0fde51651645841750-Under----399.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/3/0a407da5-e9c9-4b70-842e-e9398d6fea7d1651581839148-Bath---Body-Care.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/3/3f514a51-2d55-419c-b856-b6d0853120691651581966456-Indian-Styles.jpg"
+        },
+        {
+          "id": 4,
+          "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/3/79f8457b-a78b-423b-b2bd-5d443d3e44cb1651581997025-Myntra-Unique-T-Shirts.jpg"
+        },
+        {
+          "id": 5,
+          "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/3/1c65ed3d-cba1-4a5f-b0ae-ab4545f940731651582184306-Flats---Heels.jpg"
+        },
+        {
+          "id": 6,
+          "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/3/0070e6d7-9d06-49c8-b4f4-135ff74e2d6a1651582325724-Dresses--3-.jpg"
+        },
+        {
+          "id": 7,
+          "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/3/c581f602-7ea9-4650-9d1b-0514416886ad1651582184272-Elegant-Watches.jpg"
+        },
+        {
+          "id": 8,
+          "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/3/05aa1723-9e70-49a9-a3f3-1690adb543a41651582184289-Handbags-Collection.jpg"
+        },
+        {
+          "id": 9,
+          "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/3/6144fd79-60c2-4a61-9c84-3c75ff5bde5e1651582184281-Premium-Handbags.jpg"
+        },
+        {
+          "id": 10,
+          "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/3/4b4b8940-6dd9-48d7-a93d-db777ffb28d91651582184297-Handbags---Wallets.jpg"
+        }
+      ]
+}
