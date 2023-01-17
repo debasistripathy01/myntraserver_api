@@ -18,10 +18,11 @@ const total = require("./db.json");
 
 
 module.exports={
-    dealofday,kidswear,tshirt,
-    bestofmyntra,
-    cart,categoriestobag, dealsonlatestarrival, gitftingcards, 
-    men,
-    women,kidsgirls,kidsshirt, 
-    newintopbrands, beauty, toppicks, total, skincare
+     skincare,dealofday,kidswear,tshirt,
+     bestofmyntra,
+     cart,categoriestobag, dealsonlatestarrival, gitftingcards, 
+     men,
+     women,kidsgirls,kidsshirt, 
+     newintopbrands, beauty, toppicks,
 }
+
