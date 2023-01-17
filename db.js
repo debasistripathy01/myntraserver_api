@@ -9,14 +9,18 @@ const newintopbrands = require("./myntraServer/newintopbrands.json")
 const products = require("./myntraServer/products.json")
 const toppicks = require("./myntraServer/toppicks.json")
 const women = require("./myntraServer/women.json")
-
+const kidsgirls = require("./myntraServer/kidsgirls.json")
+const kidsshirt = require("./myntraServer/kidsshirt.json");
+const kidswear = require("./myntraServer/kidswear.json");
+const tshirt = require("./myntraServer/tshirts.json")
 const total = require("./db.json");
 
 
 module.exports={
-    dealofday,
+    dealofday,kidswear,tshirt,
     bestofmyntra,
     cart,categoriestobag, dealsonlatestarrival, gitftingcards, 
     men,
+    women,kidsgirls,kidsshirt, 
     newintopbrands, products, toppicks, total
 }
